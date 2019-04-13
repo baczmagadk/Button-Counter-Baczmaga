@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Button-Counter-Baczmaga</string>
+    <string name="add">Increment</string>
+    <string name="sub">Decrement</string>
+    <string name="reset">Reset</string>
+    <string name="displayValue">0</string>
 </resources>
